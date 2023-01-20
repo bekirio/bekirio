@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bekirio
-- 👀 I’m interested in transportation economics and operations research.
-- 🌱 I’m currently learning about demand-responsive transit modelling and optimization.
-- 📫 How to reach me: bekir@auburn.edu
+- 👀 I’m interested in transportation economics, operations research & data interpretation.
+- 🌱 I’m learned about demand-responsive transit modelling and optimization.
+- 📊 I'm currently working at @Tourlane as a data analyst, I specialize in agent performance and sales. 
+- 📫 How to reach me: bekircan.kirkici@tourlane.com
 
 <!---
 bekirio/bekirio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
