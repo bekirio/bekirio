@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bekirio
 - 👀 I’m interested in transportation economics, operations research & data interpretation.
-- 🌱 I’m learned about demand-responsive transit modelling and optimization.
+- 🌱 I’ve learned about demand-responsive transit modelling and optimization.
 - 📊 I'm currently working at @Tourlane as a data analyst, I specialize in agent performance and sales. 
-- 📫 How to reach me: bekircan.kirkici@tourlane.com
+- 📫 How to reach me: bekirkirkici@gmail.com
 
 <!---
 bekirio/bekirio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
